@@ -15,6 +15,8 @@ This project demonstrates the setup of an AWS VPC and deployment of an Apache we
 - **Tools**
   - PuTTY (for SSH access and key conversion)
   - Firewall-cmd / UFW (Uncomplicated Firewall)
+
+
 Resource Map:
 ![Screenshot 2024-09-06 011841](https://github.com/user-attachments/assets/e4623a55-c419-4478-9cdd-3de0c4e55ada)
 
